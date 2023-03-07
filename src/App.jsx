@@ -52,8 +52,8 @@ function App() {
             }, 1000);
       }
     }
-    console.log(pr);
   };
+
   const felicidades = () => {
     ok.length == 8 && setFinish(true);
   };
